@@ -1,0 +1,17 @@
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\bin\Debug\net10.0-windows\bt3.exe
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\bin\Debug\net10.0-windows\bt3.deps.json
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\bin\Debug\net10.0-windows\bt3.runtimeconfig.json
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\bin\Debug\net10.0-windows\bt3.dll
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\bin\Debug\net10.0-windows\bt3.pdb
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\obj\Debug\net10.0-windows\bt3.Form1.resources
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\obj\Debug\net10.0-windows\bt3.csproj.GenerateResource.cache
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\obj\Debug\net10.0-windows\bt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\obj\Debug\net10.0-windows\bt3.AssemblyInfoInputs.cache
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\obj\Debug\net10.0-windows\bt3.AssemblyInfo.cs
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\obj\Debug\net10.0-windows\bt3.csproj.CoreCompileInputs.cache
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\obj\Debug\net10.0-windows\bt3.dll
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\obj\Debug\net10.0-windows\refint\bt3.dll
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\obj\Debug\net10.0-windows\bt3.pdb
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\obj\Debug\net10.0-windows\bt3.genruntimeconfig.cache
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\obj\Debug\net10.0-windows\ref\bt3.dll
+C:\Users\Chukhibuon\Desktop\university\thu7 lập trình nâng cao\bt3\obj\Debug\net10.0-windows\bt3.csproj.Up2Date
